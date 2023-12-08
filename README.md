@@ -83,3 +83,4 @@ lesson we will learn how to control input at a Python ORM level.
 ## Resources
 
 - [Defining Constraints and Indexes - SQLAlchemy](https://docs.sqlalchemy.org/en/14/core/constraints.html)
+<!-- lesson learnt -->
